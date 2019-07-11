@@ -208,6 +208,12 @@ section {
 	margin: 40px 0;
 }
 
+@media only screen and (max-width: 480px) {
+	.mid-page {
+		width: 100%;
+	}
+}
+
 /*** CONTACT AREA ***/
 
 textarea, input{
